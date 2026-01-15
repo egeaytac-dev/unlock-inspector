@@ -4,10 +4,10 @@ A Windows tool to detect locked files and manage the processes holding them.
 
 ## ✨ Features
 
-- 🔍 Detect which processes are locking files
-- ⚡ Close or force-kill locking processes
-- 🗑️ Smart file deletion with retry logic
-- 📋 Detailed logging and export reports
+- Detect which processes are locking files
+- Close or force-kill locking processes
+- Smart file deletion with retry logic
+- Detailed logging and export reports
 
 ## 📋 Requirements
 
