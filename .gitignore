@@ -56,3 +56,5 @@ UnlockInspector.exe
 _internal/
 build/
 *.spec
+*.zip
+*.rar
